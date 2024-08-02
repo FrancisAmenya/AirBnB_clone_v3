@@ -53,7 +53,8 @@ Additionally the console supports `<class name>.<command>(<parameters>)` syntax.
 Ex:
 `City.show(my_city_id)`
 
-
+#### AirBnB bonus
+AirBnb v3
 
 ## Author
 * **Francis Amenya** - [Francis.Amenya](https://github.com/FrancisAmenya)
